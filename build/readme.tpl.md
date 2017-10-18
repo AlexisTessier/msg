@@ -1,4 +1,4 @@
-{{formatedName}}
+{{name}}
 ================
 
 {{#stability}}

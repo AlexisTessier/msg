@@ -1,4 +1,4 @@
-# @Alexistessier/Msg
+# @alexistessier/msg
 
 ![draft](https://img.shields.io/badge/stability-draft-lightgrey.svg?style=flat-square)
 
