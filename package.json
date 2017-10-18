@@ -1,6 +1,6 @@
 {
   "name": "@alexistessier/msg",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Tiny helper to write single line messages on multiple lines",
   "main": "index.js",
   "directories": {
