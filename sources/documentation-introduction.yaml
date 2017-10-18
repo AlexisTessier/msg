@@ -1,11 +1,2 @@
-- section: Section Name
-- title: Title
-- subtitle: Subtitle
-- p: >
-    paragraph content
-- js: >
-    // javascript code
-- cli: >
-    // cli code
-- li: list element
+- section: How to use
 - section: Documentation
