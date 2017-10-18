@@ -3,7 +3,7 @@
 ![draft](https://img.shields.io/badge/stability-draft-lightgrey.svg?style=flat-square)
 
 ![Branch : master](https://img.shields.io/badge/Branch-master-blue.svg)
-[![version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/AlexisTessier/msg#readme)
+[![version](https://img.shields.io/badge/version-0.0.1-blue.svg)](https://github.com/AlexisTessier/msg#readme)
 [![npm version](https://badge.fury.io/js/%40alexistessier%2Fmsg.svg)](https://badge.fury.io/js/%40alexistessier%2Fmsg)
 
 [![Build Status](https://travis-ci.org/AlexisTessier/msg.svg?branch=master)](https://travis-ci.org/AlexisTessier/msg)
