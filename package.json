@@ -1,6 +1,6 @@
 {
   "name": "@alexistessier/msg",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Tiny helper to write single line messages on multiple lines",
   "publishConfig": {
     "access": "public"
