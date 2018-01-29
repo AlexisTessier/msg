@@ -2,12 +2,12 @@
 
 ![draft](https://img.shields.io/badge/stability-draft-lightgrey.svg?style=flat-square)
 
-![Branch : master](https://img.shields.io/badge/Branch-master-blue.svg)
+![Branch : release](https://img.shields.io/badge/Branch-release-blue.svg)
 [![version](https://img.shields.io/badge/version-1.1.8-blue.svg)](https://github.com/AlexisTessier/msg#readme)
 [![npm version](https://badge.fury.io/js/%40alexistessier%2Fmsg.svg)](https://badge.fury.io/js/%40alexistessier%2Fmsg)
 
-[![Build Status](https://travis-ci.org/AlexisTessier/msg.svg?branch=master)](https://travis-ci.org/AlexisTessier/msg)
-[![Coverage Status](https://coveralls.io/repos/AlexisTessier/msg/badge.svg?branch=master&service=github)](https://coveralls.io/github/AlexisTessier/msg?branch=master)
+[![Build Status](https://travis-ci.org/AlexisTessier/msg.svg?branch=release)](https://travis-ci.org/AlexisTessier/msg)
+[![Coverage Status](https://coveralls.io/repos/AlexisTessier/msg/badge.svg?branch=release&service=github)](https://coveralls.io/github/AlexisTessier/msg?branch=release)
 
 [![Dependency Status](https://david-dm.org/AlexisTessier/msg.svg)](https://david-dm.org/AlexisTessier/msg)
 [![devDependency Status](https://david-dm.org/AlexisTessier/msg/dev-status.svg)](https://david-dm.org/AlexisTessier/msg#info=devDependencies)
